@@ -46,7 +46,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Технические
     items:
       - name: Python
         description: ''
@@ -63,7 +63,7 @@ skills:
         percent: 50
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -94,7 +94,7 @@ social:
   - icon: telegram
     icon_pack: fab
     link: https://t.me/durov_russia
-    label: Follow me on Twitter
+    label: Follow me on Telegram
     display:
       header: true
   - icon: github

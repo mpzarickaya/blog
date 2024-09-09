@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Зарицкая Марина 
+title: Zaritskaya Marina
 # Full name (for SEO)
-first_name: Марина
-last_name: Зарицкая
+first_name: Marina
+last_name: Zaritskaya
 
 # Status emoji
 status:
@@ -13,33 +13,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Студентка ФФМиЕН РУДН
+role: PFUR Student (Faculty of Science) 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Российский университет дружбы народов
-    url: https://www.rudn.ru/
+  - name: People's Friendship university of Russia
+    url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Интересуюсь программированием, дизайном и робототехникой
+bio: Interested in programming, design and robotics
 
 # Interests to show in About widget
 interests:
-  - Веб-разработка
-  - Графический дизайн
-  - Изучение иностранных языков
-  - Робототехника
+  - Web development
+  - Graphic Design
+  - Language Learning
+  - Robotics
   
   
 
 # Education to show in About widget
 education:
   courses:
-    - course: Среднее общее образование
-      organised: МБОУ Гимназия №7 
+    - course: Secondary general education
+      organised: MBEI Gymnasium No. 7 
       year: 2023
-    - course: Изобразительное искусство
-      organised: Детская художественная школа
+    - course: Fine Arts
+      organised: Children's Art School
       year: 2020
       
 
@@ -67,17 +67,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Дизайн
+      - name: Design
         description: ''
         percent: 80
         icon: paint-brush
         icon_pack: fas
-      - name: Соц. сети
+      - name: Social media
         description: ''
         percent: 60
         icon: laptop
         icon_pack: fas
-      - name: Музыка
+      - name: Music
         description: ''
         percent: 100
         icon: headphones
@@ -94,7 +94,7 @@ social:
   - icon: telegram
     icon_pack: fab
     link: https://t.me/durov_russia
-    label: Follow me on Twitter
+    label: Follow me on Telegram
     display:
       header: true
   - icon: github
@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Зарицкая Марина - студентка факультета физико-математических и естественных наук РУДН, направление - компьютерные и информационные науки
+Marina Zaritskaya is a student of the Faculty of Physics, Mathematics and Natural Sciences of PFUR, Computer and Information Sciences.
 {style="text-align: justify;"}

@@ -1,7 +1,7 @@
 ---
-title: Что было на прошлой неделе?
+title: What happened last week?
 date: '2024-08-25'
-summary: Подготовка к учебе
+summary: Getting ready for studying
 
 # Link this post with a project
 projects: []
@@ -33,20 +33,20 @@ categories:
 
 
 
-## Последние дни каникул
+## Last days of vacation
 
-На прошлой неделе я наслаждалась последними днями каникул перед началом нового учебного года. Несмотря на приближающийся учебный семестр, я решила посвятить это время не только отдыху, но и подготовке к предстоящим занятиям.
+Last week, I enjoyed the last days of vacation before the new school year begins. Despite the approaching school semester, I decided to dedicate this time to not only relaxing, but also preparing for my upcoming classes.
 
-## Новые технологии
+## New Technologies
 
-Большую часть недели я провела за компьютером, разбираясь с новыми для себя технологиями. Решила освежить знания по `Python` и поэкспериментировала с парочкой небольших проектов. Также начала изучать основы `Flask` — хочу попробовать создать небольшое веб-приложение в новом семестре.
+I spent most of the week on the computer learning about new technologies. I decided to refresh my knowledge of `Python` and experimented with a couple of small projects. Also started learning the basics of `Flask` - I want to try to create a small web application in the new semester.
 
-## Отдых с друзьями
+## Vacation with friends
 
-Но, конечно, я не забыла и о полноценном отдыхе. Встретилась с друзьями, и мы провели пару дней на природе, наслаждаясь последними теплыми деньками. 
+But, of course, I didn't forget about a full vacation. I met up with some friends and we spent a couple of days in nature, enjoying the last warm days. 
 
-## Готовность к новому учебному году
+## Ready for the new school year
 
-Теперь, отдохнувшая и полная сил, я готова к новому учебному году. Хотя немного грустно, что каникулы закончились, я с оптимизмом смотрю вперед — ведь впереди столько новых знаний и интересных задач!
+Now, rested and full of energy, I am ready for the new school year. Although I am a little sad that the vacation is over, I am optimistic about the future - there is so much new knowledge and interesting tasks ahead!
 
-![Красиво](1.jpg)
+![Picturesque](1.jpg)
